@@ -14,7 +14,7 @@ Features:
  * Jumper to link Bluetooth reset to D1 Mini reset.
  * Jumper to place Bluetooth module into command mode for reflashing, etc.
 
-![Oblique view](https://raw.githubusercontent.com/SuperHouse/D1MBLUE/master/images/D1MBLUE-oblique-v1_0.png)
+![Oblique view](https://raw.githubusercontent.com/SuperHouse/D1MBLUE/master/images/D1MBLUE-oblique-v1_0.jpg)
 
 ![Top view](https://raw.githubusercontent.com/SuperHouse/D1MBLUE/master/images/D1MBLUE-top-v1_0.png)
 
